@@ -49,7 +49,7 @@ echo ''
 #Get timestamp for filenames
 date=$(date +%y%m%d-%H%M%S)
 
-
+#What branch am I in?
 
 #########BUILD MANIFEST FILE#########
 echo ""
